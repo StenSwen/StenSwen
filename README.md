@@ -1,4 +1,4 @@
-- 👊 Hi, I’m @StenSwen, recovering DJ and former Research Scientist, Molecular/Cell Biologist, Started Biotecj
+- 👊 Hi, I’m @StenSwen, recovering DJ and former Research Scientist, Molecular/Cell Biologist, Started Cryostorage Company
 - 👀 I’m interested in Bitcoin, Lightning/LND and learning to code - Android apps / apk dev
 - 🌱 I’m currently learning ... ^^
 - 💞️ I’m looking to collaborate on ... Bitcoin and Lightning enabled vending machines, arcade games, game shows
